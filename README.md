@@ -1,0 +1,2 @@
+# TimeToGo
+TimeToGo, calculate worktime
